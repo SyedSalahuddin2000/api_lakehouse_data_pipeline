@@ -1,0 +1,7 @@
+api:
+  url: https://dummyjson.com/products
+  TIMEOUT: 30
+  
+storage:
+  raw_folder: data/raw
+
